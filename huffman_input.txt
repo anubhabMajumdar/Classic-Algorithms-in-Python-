@@ -1,0 +1,1 @@
+Sorry for this basic question but my searches on this are not turning up anything other than how to get a dictionary's key based on its value which I would prefer not to use as I simply want the text/name of the key and am worried that searching by value may end up returning 2 or more keys if the dictionary has a lot of entries... what I am trying to do is this:
